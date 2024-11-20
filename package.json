@@ -1,9 +1,11 @@
-{
+{ 
+
+
   "name": "tradingbot",
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "node dist/main.js",
+    "start": "node dist/maain.js",
     "dev": "ts-node src/main.ts",
     "build": "tsc"
   },
